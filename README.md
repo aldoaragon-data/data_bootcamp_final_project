@@ -1,5 +1,6 @@
 # data_bootcamp_final_project
-Aldo Aragon - NYU Stern Data Bootcamp Project: 
+
+# Aldo Aragon - NYU Stern Data Bootcamp Project: 
 
 This project was completed by Aldo Gonzalez Aragon in partial fulfillment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particlar, I have: 
 
@@ -11,4 +12,6 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
-Project Description: 
+# Project Description:
+
+This project sets out to understand if video games are “recession proof.” Our intended user persona is an independent investor or a firm analyst looking to better understand the gaming industry. Ultimately, our project will help our user determine if video games are part of a recession investment strategy. We analyzed video game sales data across Japan, North America, and Europe to see sales trends and learn about the biggest publishers. We then focus on sales for Japan and the United States (using North America as a proxy as ~92% of “NA” sales come from the U.S.) against basic economic indicators for each country (GDP growth rates and unemployment rates). Finally, we focus on a key set of video game publishers listed on American exchanges (Take Two, Activision, Electronic Arts, and Ubisoft) and track their market performances against the Nasdaq Composite Index.
